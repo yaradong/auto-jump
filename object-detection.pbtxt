@@ -1,0 +1,28 @@
+item {
+  name: 'chess'
+  id: 1
+}
+item {
+  name: 'rect'
+  id: 2
+}
+item {
+  name: 'circle'
+  id: 3
+}
+item {
+  name: 'waste'
+  id: 4
+}
+item {
+  name: 'magic'
+  id: 5
+}
+item {
+  name: 'shop'
+  id: 6
+}
+item {
+  name: 'music'
+  id: 7
+}
